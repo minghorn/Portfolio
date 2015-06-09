@@ -2,7 +2,7 @@ img.revealTitle:hover{
 	opacity: .5;
 }
 
-img.headBg {
+img#headBg {
 	opacity: .7;
 }
 
@@ -12,6 +12,6 @@ img.headBg {
 #portRow {
 	margin-top: -18px;
 }
-#menu {
-	
+#title {
+	position: absolute;
 }
